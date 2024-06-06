@@ -23,6 +23,13 @@
 <li>Contribute to open-source projects and collaborate with other developers</li>
 </ul>
 
+<h2 align="center">Fun Facts</h2>
+
+<ul>
+  <li>Next to coding, cars are my second passion! My dream car is a Nissan GTR or a Honda Civic Type R</li>
+  <li>In my (limited) free time, I love to play video games. My favorites at the moment are Icarus, Destiny 2, and Starfield</li>
+  <li>I have over 150 houseplants scattered throughout my house</li>
+</ul>
 
 
 ###
