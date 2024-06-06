@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">I'm on a pretty exciting journey to become a software developer and game developer. I'm teaching myself to code using The Odin Project and freeCodeCamp. I'm passionate about learning new technologies, building projects, and solving problems through code.</h3>
+<h4 align="center">I'm on a pretty exciting journey to become a software developer and game developer. I'm teaching myself to code using The Odin Project and freeCodeCamp. I'm passionate about learning new technologies, building projects, and solving problems through code.</h4>
 
 ###
 <h2 align="center">Current Learning Paths</h2>
