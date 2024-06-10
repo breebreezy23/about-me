@@ -29,6 +29,7 @@
   <li>Next to coding, cars are my second passion! My dream car is a Nissan GTR or a Honda Civic Type R</li>
   <li>In my (limited) free time, I love to play video games. My favorites at the moment are Icarus, Destiny 2, and Starfield</li>
   <li>I have over 150 houseplants scattered throughout my house</li>
+  <li>I'm currently in school earning my Bachelor's of Science in Cybersecurity</li>
 </ul>
 
 
